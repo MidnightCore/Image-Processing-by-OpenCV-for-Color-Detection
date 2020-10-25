@@ -9,3 +9,5 @@
 ได้ผลลัพธ์ออกมาดังนี้
 
 ![ฟห](https://user-images.githubusercontent.com/37956546/97098631-903ef680-16b1-11eb-9eb3-f8a0f85d564d.png)
+
+Special Credite : https://github.com/V2dha/Color-Detection-Using-OpenCV-Python
